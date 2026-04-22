@@ -6,4 +6,3 @@ services:
     environment:
       - CONNECT_TO_GRID=false
     restart: always
- 
